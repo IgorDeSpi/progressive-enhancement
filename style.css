@@ -1,0 +1,76 @@
+header > p{
+    background-color: #FFFF00;
+}
+body{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    background: -webkit-linear-gradient(1deg, rgb(204, 254, 195), rgb(138, 236, 126));
+    background: linear-gradient(1deg, rgb(204, 254, 195), rgb(138, 236, 126));
+    background-image: url(https://image.made-in-china.com/2f0j00TrmGnwfaCHoF/Chinese-Wallpaper-Murals-3D-Cheap-Embossed-Building-Material.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+}
+
+p{
+    word-spacing: 2px;
+    color: #000080;
+    font-family: Serif;
+    font-size: 20px;
+}
+/* unvisited link */
+a:link{
+    color: #2E8B57;
+}
+/* visited link */
+a:visited{
+    color:#FF1493;
+}
+/* mouse over link */
+a:hover{
+    color:#FF0000
+}
+
+blockquote{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 160%;
+    background-color: #D3D3D3;
+    border-left: 3px solid firebrick;
+    padding-left: 30px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+li:nth-child(1){
+    list-style-image: url(https://github.com/becodeorg/bxl-hopper-1-25/raw/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/bien.png);
+    padding-right: 10px solid;
+}
+
+.villagers{
+    border-left: 3px solid #C71585;
+}
+
+.farmer{
+    border-left: 3px solid #FFD700;
+}
+
+.good{
+    text-transform: capitalize;
+    color: #008000;
+}
+
+.bad{
+    text-transform: capitalize;
+    color: #FF0000;
+}
+
+tr:nth-child(even){
+    background-color: grey;
+}
+tr:nth-child(odd){
+    background-color: white;
+}
