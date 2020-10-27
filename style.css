@@ -1,6 +1,5 @@
 header > p{
     background-color: #FFFF00;
-    font-weight: bold;
 }
 body{
     justify-content: center;
@@ -44,11 +43,6 @@ blockquote{
     padding-left: 30px;
     padding-bottom: 80px;
     padding-top: 80px;
-}
-
-li:nth-child(1){
-    background-image: url(https://github.com/becodeorg/bxl-hopper-1-25/raw/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/bien.png);
-    
 }
 
 .villagers{
@@ -104,4 +98,21 @@ ul li:nth-child(3){
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
+}
+
+p:first-of-type {
+    font-weight: bold;
+}
+
+div{
+    display: flex;
+}
+
+div.flex{
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+    display: flex;
 }
