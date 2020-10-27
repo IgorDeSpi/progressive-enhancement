@@ -46,8 +46,8 @@ blockquote{
 }
 
 li:nth-child(1){
-    list-style-image: url(https://github.com/becodeorg/bxl-hopper-1-25/raw/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/bien.png);
-    padding-right: 10px solid;
+    background-image: url(https://github.com/becodeorg/bxl-hopper-1-25/raw/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/bien.png);
+    
 }
 
 .villagers{
