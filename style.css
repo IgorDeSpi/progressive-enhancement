@@ -1,5 +1,6 @@
 header > p{
     background-color: #FFFF00;
+    font-weight: bold;
 }
 body{
     justify-content: center;
@@ -98,19 +99,6 @@ ul li:nth-child(3){
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
-}
-
-p:first-of-type {
-    font-weight: bold;
-}
-
-div{
-    display: flex;
-}
-
-div.flex{
-    display: flex;
-    flex-direction: row;
 }
 
 section{
