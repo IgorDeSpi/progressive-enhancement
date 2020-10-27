@@ -90,3 +90,17 @@ ul li:nth-child(1){
     background-size: contain;
     background-position: right;
 }
+
+ul li:nth-child(2){
+    background-image: url(https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/mal.png?token=ARNZLGGE77GNGONJRZCUKC27UE5MC);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+ul li:nth-child(3){
+    background-image: url(https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/chat.png?token=ARNZLGHFM635FVMLO3NIUEC7UE5MC);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
