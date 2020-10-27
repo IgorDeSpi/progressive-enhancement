@@ -1,5 +1,6 @@
 header > p{
     background-color: #FFFF00;
+    font-weight: bold;
 }
 body{
     justify-content: center;
