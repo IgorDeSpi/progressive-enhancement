@@ -101,6 +101,10 @@ ul li:nth-child(3){
     background-position: right;
 }
 
-section{
+.flex{
     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: nowrap;
 }
