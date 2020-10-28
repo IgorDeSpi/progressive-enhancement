@@ -122,3 +122,8 @@ ul li:nth-child(3){
     right: 0px;
     bottom: 0px;
   }
+
+.farmer{
+    height: 100px;
+    width: 200px;
+}
